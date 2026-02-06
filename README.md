@@ -23,7 +23,7 @@ Building **scalable, high-performance backend systems** with Java and modern dis
 - Excellent problem-solving skills aligned with **FAANG SDE-2 expectations**
 - Regular practice across arrays, trees, graphs, DP, and system design problems
 
-🔗 **LeetCode:** https://leetcode.com/<YOUR_LEETCODE_USERNAME>/
+🔗 **LeetCode:** https://leetcode.com/djha93486/
 
 ---
 
