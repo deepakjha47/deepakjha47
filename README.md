@@ -96,16 +96,6 @@ A **high-performance URL shortening service** designed for scale and reliability
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakjha47&show_icons=true&hide_title=true&hide_rank=true)
-
-</div>
-
----
-
 ## 🎯 What Defines Me as an Engineer
 
 - Strong fundamentals in **DSA + System Design**
